@@ -1,2 +1,9 @@
-# Decodificador-Alura-Oracle
-aplicação que criptografa textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.  
+# Decodificador-Alura-Oracle :unlock: :closed_lock_with_key:
+
+## As "chaves" de criptografia utilizadas são:
+- A letra "e" é convertida para "enter"
+- A letra "i" é convertida para "imes"
+- A letra "a" é convertida para "ai"
+- A letra "o" é convertida para "ober"
+- A letra "u" é convertida para "ufat"
+
