@@ -8,4 +8,10 @@
 - A letra "u" é convertida para "ufat"
 
 
-Acesse en https://rafaelbitencourrt.github.io/Decodificador-Alura-Oracle/
+
+https://user-images.githubusercontent.com/83886571/167427256-301c4d17-dc07-48e8-963a-abaee3adefae.mp4
+
+
+
+
+Acesse em https://rafaelbitencourrt.github.io/Decodificador-Alura-Oracle/
